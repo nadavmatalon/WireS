@@ -10,7 +10,7 @@
 
 This library enables the newer members of the ATtiny family (ATtiny441/841, ATtiny1634 & ATtiny828) to become Slaves on an I2C Bus. The library is based on a hardware implementation of I2C which is faster than the software one, but requries using a specific set of pins for SDA (PA6 on ATtiny441/841) & SCL (PA4 on ATtiny441/841).
 
-Original Code by: Hisashi Ito [WireS](https://github.com/orangkucing/WireS)
+Original Code by: Hisashi Ito ([WireS](https://github.com/orangkucing/WireS))
 
 ## REPOSITORY CONTENTS
 
